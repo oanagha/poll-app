@@ -4,13 +4,13 @@ import { getFunctions } from "firebase/functions";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyDm0biputNNaS6olFyh2D_aPs13qCDo_KM",
-    authDomain: "poll-app-5f87d.firebaseapp.com",
-    projectId: "poll-app-5f87d",
-    storageBucket: "poll-app-5f87d.firebasestorage.app",
-    messagingSenderId: "301300541979",
-    appId: "1:301300541979:web:9e16b6cc4f42320dad26be",
-    measurementId: "G-G0TM4R7RR0"
+  apiKey: "AIzaSyCyIyZhjbGP-80GjuGEHk4L3HOcNeVTTDU",
+  authDomain: "polling-53ab5.firebaseapp.com",
+  projectId: "polling-53ab5",
+  storageBucket: "polling-53ab5.firebasestorage.app",
+  messagingSenderId: "297562829880",
+  appId: "1:297562829880:web:af38fb756b8a6f6c0022cd",
+  measurementId: "G-44YYHZ09MT"
   };
 
 
